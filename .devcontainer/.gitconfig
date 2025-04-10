@@ -1,0 +1,4 @@
+[core]
+    hooksPath = /assignment/git-hooks
+    editor = code --wait
+
