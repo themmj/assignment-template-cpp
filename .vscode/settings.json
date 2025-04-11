@@ -2,5 +2,5 @@
     "debug.onTaskErrors": "abort",
     "extensions.ignoreRecommendations": true,
     "cSpell.diagnosticLevel": "Hint",
-    "cSpell.ignoreWords": ["dhbw"]
+    "cSpell.ignoreWords": []
 }
