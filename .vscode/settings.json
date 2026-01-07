@@ -1,7 +1,0 @@
-{
-    "debug.onTaskErrors": "abort",
-    "extensions.ignoreRecommendations": true,
-    "cSpell.diagnosticLevel": "Hint",
-    "cSpell.ignoreWords": [],
-    "C_Cpp.default.cppStandard": "c++20"
-}
